@@ -489,4 +489,4 @@
 
 **尊重原创，本文来自：**[纯洁的微笑](http://www.ityouknow.com/jvm/2017/08/19/class-loading-principle.html)
 
-## [JVM 调优](./JVM 调优.md)
+## [JVM 调优](https://github.com/wanwujiedao/classlearning/blob/master/JVM%20%E8%B0%83%E4%BC%98.md)
